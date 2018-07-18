@@ -1,2 +1,1 @@
-# moviePal
-Group Project 1
+# MoviePal
